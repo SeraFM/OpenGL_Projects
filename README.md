@@ -1,2 +1,2 @@
 # OpenGL
-OpenGL Projects 
+Small Porjects with OpenGL and C++
