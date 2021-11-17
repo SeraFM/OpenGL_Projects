@@ -8,6 +8,6 @@ Small Project with OpenGL and C++
 
 
 # Project2
--Displaying a 3D Pyramid
--Rotation
+-Displaying a 3D Pyramid                                                                                                                                                           
+-Rotation                                                                                                                                                                           
 -Scaling
