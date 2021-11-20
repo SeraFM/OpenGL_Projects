@@ -1,5 +1,6 @@
 ## OpenGL
-Small Project with OpenGL and C++
+Small Project with OpenGL using GLEW GLM GLFW.                                                                                                                                     
+Programming Language: C++
 
 # Project1
 -Displaying a shape                                                                                                                                                                 
