@@ -1,5 +1,5 @@
 ## OpenGL
-Small Project with OpenGL using GLEW GLM GLFW.                                                                                                                                     
+Small Projects with OpenGL using GLEW GLFW GLM.                                                                                                                                     
 Programming Language: C++
 
 # Project1
